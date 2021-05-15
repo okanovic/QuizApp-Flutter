@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
